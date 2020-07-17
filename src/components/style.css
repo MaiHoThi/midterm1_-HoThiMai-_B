@@ -1,0 +1,37 @@
+/* Addproduct */
+
+.AddProduct input{
+    margin-top: 10px;
+    padding: 10px;
+    width: 100%;
+}
+.AddProduct button{
+    width: 100px;
+
+}
+/* Products */
+
+.card{
+    margin-top: 10px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.card .btn{
+ margin-top: 5px;
+}
+.card .oldprice{
+text-decoration: line-through;
+color: black;
+}
+.card .price{
+    color: red;
+    margin-left: 5px;
+    }
+.card Link,button:hover
+{
+    opacity: 1;
+    border: 1px solid;
+    margin: 5px;
+}
